@@ -1,0 +1,1 @@
+// JavaScript for hover effects, scroll transitions, etc.
